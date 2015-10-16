@@ -1,0 +1,14 @@
+{
+    "title": "开智学院 编程课程 Python 入门班 私人教程笔记模板",
+    "version": "15.9.18,13:48",
+    "description": "开智Pytho学习笔记",
+    "author": "Robo_one",
+    
+    
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "python-omooc2py"
+        }
+    }  
+}
